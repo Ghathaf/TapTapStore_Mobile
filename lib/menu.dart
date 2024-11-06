@@ -14,7 +14,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         // Judul aplikasi "Mental Health Tracker" dengan teks putih dan tebal.
         title: const Text(
-          'FShop',
+          'TapTapStore',
           style: TextStyle(
             color: Colors.white,
             fontWeight: FontWeight.bold,
